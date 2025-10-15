@@ -12,17 +12,18 @@ export const HeroSection = () => {
             <span className="opacity-0 animate-fade-in"> Hi, I'm</span>
             <span className="text-primary opacity-0 animate-fade-in-delay-1">
               {" "}
-              Ahmed
+              Pedro
             </span>
             <span className="text-gradient ml-2 opacity-0 animate-fade-in-delay-2">
               {" "}
-              Mahmud
+              Machado
             </span>
           </h1>
 
           <p className="text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3">
-            Im a Full Stack Developer turning ideas into powerful digital
-            products — from sleek frontends to robust backends.
+            I create stellar web experiences with modern technologies.
+            Specializing in front-end development, I build interfaces that are
+            both beautiful and functional.
           </p>
 
           <div className="pt-4 opacity-0 animate-fade-in-delay-4">
