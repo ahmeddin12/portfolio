@@ -3,28 +3,28 @@ import { ArrowRight, ExternalLink, Github } from "lucide-react";
 const projects = [
   {
     id: 1,
-    title: "SaaS Landing Page",
-    description: "A beautiful landing page app using React and Tailwind.",
+    title: "Restoran ",
+    description: "Restaurant Management System (Laravel, MySQL, Bootstrap)",
     image: "/projects/project1.png",
-    tags: ["React", "TailwindCSS", "Supabase"],
+    tags: ["Laravel", "MySQL", "Bootstrap"],
     demoUrl: "#",
     githubUrl: "#",
   },
   {
     id: 2,
-    title: "Orbit Analytics Dashboard",
+    title: "E-Commerce Web Application (React, Node.js)",
     description:
-      "Interactive analytics dashboard with data visualization and filtering capabilities.",
+      "Built a fully functional e-commerce platform with product listings, shopping cart, and checkout flow",
     image: "/projects/project2.png",
-    tags: ["TypeScript", "D3.js", "Next.js"],
+    tags: ["React", "Node.js"],
     demoUrl: "#",
     githubUrl: "#",
   },
   {
     id: 3,
-    title: "E-commerce Platform",
+    title: "Record Management System",
     description:
-      "Full-featured e-commerce platform with user authentication and payment processing.",
+      "A digital system to replace manual record-keeping and improve document accessibility and security",
     image: "/projects/project3.png",
     tags: ["React", "Node.js", "Stripe"],
     demoUrl: "#",
@@ -100,7 +100,7 @@ export const ProjectsSection = () => {
           <a
             className="cosmic-button w-fit flex items-center mx-auto gap-2"
             target="_blank"
-            href="https://github.com/machadop1407"
+            href="https://github.com/ahmeddin12"
           >
             Check My Github <ArrowRight size={16} />
           </a>
