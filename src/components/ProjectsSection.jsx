@@ -15,7 +15,7 @@ const projects = [
     title: "E-Commerce Web Application (React, Node.js)",
     description:
       "Built a fully functional e-commerce platform with product listings, shopping cart, and checkout flow",
-    image: "../../public/projects/project1.png",
+    image: "/projects/project1.png",
     tags: ["React", "Node.js"],
     demoUrl:
       "http://ecommerce-project-react-env.eba-f29iuuxp.eu-north-1.elasticbeanstalk.com/",
