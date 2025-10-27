@@ -31,6 +31,16 @@ const projects = [
     demoUrl: "#",
     githubUrl: "#",
   },
+  {
+    id: 4,
+    title: "Workout-tracker",
+    description:
+      "A web application that allows users to log, view, and track their running and cycling workouts on an interactive map. It uses the browser’s geolocation API and Leaflet library for mapping.",
+    image: "/projects/project4.png",
+    tags: ["Html", "css", "javascript"],
+    demoUrl: "https://map-api3.onrender.com/",
+    githubUrl: "https://github.com/ahmeddin12/Map-API",
+  },
 ];
 
 export const ProjectsSection = () => {
