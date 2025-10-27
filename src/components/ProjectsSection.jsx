@@ -5,9 +5,9 @@ const projects = [
     id: 1,
     title: "Restoran ",
     description: "Restaurant Management System (Laravel, MySQL, Bootstrap)",
-    image: "/projects/project1.png",
+    image: "../../public/projects/project2.png",
     tags: ["Laravel", "MySQL", "Bootstrap"],
-    demoUrl: "#",
+    demoUrl: "https://github.com/ahmeddin12/Restoran",
     githubUrl: "#",
   },
   {
@@ -15,10 +15,11 @@ const projects = [
     title: "E-Commerce Web Application (React, Node.js)",
     description:
       "Built a fully functional e-commerce platform with product listings, shopping cart, and checkout flow",
-    image: "/projects/project2.png",
+    image: "../../public/projects/project1.png",
     tags: ["React", "Node.js"],
-    demoUrl: "#",
-    githubUrl: "#",
+    demoUrl:
+      "http://ecommerce-project-react-env.eba-f29iuuxp.eu-north-1.elasticbeanstalk.com/",
+    githubUrl: "https://github.com/ahmeddin12/ecommerece-project",
   },
   {
     id: 3,
@@ -26,7 +27,7 @@ const projects = [
     description:
       "A digital system to replace manual record-keeping and improve document accessibility and security",
     image: "/projects/project3.png",
-    tags: ["React", "Node.js", "Stripe"],
+    tags: ["CSS", "PHP", "MySQL"],
     demoUrl: "#",
     githubUrl: "#",
   },
