@@ -5,7 +5,7 @@ const projects = [
     id: 1,
     title: "Restoran ",
     description: "Restaurant Management System (Laravel, MySQL, Bootstrap)",
-    image: "../../public/projects/project2.png",
+    image: "/projects/project2.png",
     tags: ["Laravel", "MySQL", "Bootstrap"],
     demoUrl: "https://github.com/ahmeddin12/Restoran",
     githubUrl: "#",
