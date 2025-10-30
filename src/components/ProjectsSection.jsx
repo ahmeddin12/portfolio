@@ -4,11 +4,12 @@ const projects = [
   {
     id: 1,
     title: "Restoran ",
-    description: "Restaurant Management System (Laravel, MySQL, Bootstrap)",
-    image: "/projects/project2.png",
+    description:
+      "Restoran is a full-featured restaurant management system built with Laravel and Vite. It manages menus, orders, payments, and customer reviews efficiently. The system streamlines restaurant operations, from order placement to secure online payments.",
+    image: "/projects/project2.jpeg",
     tags: ["Laravel", "MySQL", "Bootstrap"],
-    demoUrl: "https://github.com/ahmeddin12/Restoran",
-    githubUrl: "#",
+    demoUrl: "https://myre.page.gd/",
+    githubUrl: "https://github.com/ahmeddin12/Restoran",
   },
   {
     id: 2,
