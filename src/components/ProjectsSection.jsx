@@ -7,7 +7,7 @@ const projects = [
     description:
       "Restoran is a full-featured restaurant management system built with Laravel and Vite. It manages menus, orders, payments, and customer reviews efficiently. The system streamlines restaurant operations, from order placement to secure online payments.",
     image: "/projects/project2.jpeg",
-    tags: ["Laravel", "MySQL", "Bootstrap"],
+    tags: ["Laravel", "MySQL", "Bootstrap", "JQuery"],
     demoUrl: "https://myre.page.gd/",
     githubUrl: "https://github.com/ahmeddin12/Restoran",
   },
@@ -24,13 +24,15 @@ const projects = [
   },
   {
     id: 3,
-    title: "Record Management System",
-    description:
-      "A digital system to replace manual record-keeping and improve document accessibility and security",
+    title: "NewsDaily",
+    description: `The NewsDaily lets users explore top headlines, browse news by category, and search for specific topics in real-time.  
+    It’s designed for performance, clarity, and responsiveness — combining MUI’s modern components with Tailwind’s adaptive grid system.
+
+    Built for learners and professionals interested in frontend architecture, API integration, and modern UI design.`,
     image: "/projects/project3.png",
-    tags: ["CSS", "PHP", "MySQL"],
-    demoUrl: "#",
-    githubUrl: "#",
+    tags: ["React", "TypeScript", "TailwindCSS"],
+    demoUrl: "https://news-portal-nu-one.vercel.app/",
+    githubUrl: "https://github.com/ahmeddin12/news_portal",
   },
   {
     id: 4,
