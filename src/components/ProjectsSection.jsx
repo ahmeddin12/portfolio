@@ -31,7 +31,7 @@ const projects = [
     Built for learners and professionals interested in frontend architecture, API integration, and modern UI design.`,
     image: "/projects/project3.png",
     tags: ["React", "TypeScript", "TailwindCSS"],
-    demoUrl: "https://news-portal-nu-one.vercel.app/",
+    demoUrl: "https://news-portal-a7vt.vercel.app/",
     githubUrl: "https://github.com/ahmeddin12/news_portal",
   },
   {
