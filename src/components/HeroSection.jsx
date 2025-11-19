@@ -22,8 +22,8 @@ export const HeroSection = () => {
 
           <p className="text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3">
             I craft powerful and scalable web solutions using modern
-            technologies. Specializing in backend development, I build systems
-            that are efficient, secure, and seamlessly integrated with front-end
+            technologies. Specializing in Frontend development, I build systems
+            that are efficient, secure, and seamlessly integrated with back-end
             experiences.
           </p>
 

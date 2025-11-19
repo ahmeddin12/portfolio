@@ -3,7 +3,7 @@ import { ArrowRight, ExternalLink, Github } from "lucide-react";
 const projects = [
   {
     id: 1,
-    title: "Restoran ",
+    title: "Restoran",
     description:
       "Restoran is a full-featured restaurant management system built with Laravel and Vite. It manages menus, orders, payments, and customer reviews efficiently. The system streamlines restaurant operations, from order placement to secure online payments.",
     image: "/projects/project2.jpeg",
@@ -13,6 +13,23 @@ const projects = [
   },
   {
     id: 2,
+    title: "Resumind",
+    description:
+      "AI-powered Resume Analyzer. Create job listings, upload candidate resumes, and use AI to automatically evaluate and match resumes to job requirements.",
+    image: "/projects/project5.png",
+    tags: [
+      "React",
+      "React Router V7",
+      "Puter.js",
+      "TailwindCSS",
+      "TypeScript",
+      "Zustand",
+    ],
+    demoUrl: "https://resumind-airesumeanalyzer.vercel.app/",
+    githubUrl: "https://github.com/ahmeddin12/ai_resume_analyzer",
+  },
+  {
+    id: 3,
     title: "E-Commerce Web Application (React, Node.js)",
     description:
       "Built a fully functional e-commerce platform with product listings, shopping cart, and checkout flow",
@@ -23,7 +40,7 @@ const projects = [
     githubUrl: "https://github.com/ahmeddin12/ecommerece-project",
   },
   {
-    id: 3,
+    id: 4,
     title: "NewsDaily",
     description: `The NewsDaily lets users explore top headlines, browse news by category, and search for specific topics in real-time.  
     It’s designed for performance, clarity, and responsiveness — combining MUI’s modern components with Tailwind’s adaptive grid system.
@@ -35,7 +52,7 @@ const projects = [
     githubUrl: "https://github.com/ahmeddin12/news_portal",
   },
   {
-    id: 4,
+    id: 5,
     title: "Workout-tracker",
     description:
       "A web application that allows users to log, view, and track their running and cycling workouts on an interactive map. It uses the browser’s geolocation API and Leaflet library for mapping.",
