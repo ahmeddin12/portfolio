@@ -3,20 +3,20 @@ import { ArrowRight, ExternalLink, Github } from "lucide-react";
 const projects = [
   {
     id: 1,
-    title: "Restoran",
+    title: "Signalist",
     description:
-      "Restoran is a full-featured restaurant management system built with Laravel and Vite. It manages menus, orders, payments, and customer reviews efficiently. The system streamlines restaurant operations, from order placement to secure online payments.",
-    image: "/projects/project2.jpeg",
-    tags: ["Laravel", "MySQL", "Bootstrap", "JQuery"],
-    demoUrl: "https://myre.page.gd/",
-    githubUrl: "https://github.com/ahmeddin12/Restoran",
+      "Stock Market app to Track prices, set alerts, explore insights, manage watchlists, and automate workflows for notifications and analytics.",
+    image: "/projects/signalist.png",
+    tags: ["typescript, nextjs, inngest, gemini, nodemailer"],
+    demoUrl: "https://signalist-stock-tracker-app-swart.vercel.app/",
+    githubUrl: "https://github.com/ahmeddin12/Signalist-stock_tracker_app",
   },
   {
     id: 2,
     title: "Resumind",
     description:
       "AI-powered Resume Analyzer. Create job listings, upload candidate resumes, and use AI to automatically evaluate and match resumes to job requirements.",
-    image: "/projects/project5.png",
+    image: "/projects/resumind.png",
     tags: [
       "React",
       "React Router V7",
@@ -29,6 +29,28 @@ const projects = [
     githubUrl: "https://github.com/ahmeddin12/ai_resume_analyzer",
   },
   {
+    id: 4,
+    title: "NewsDaily",
+    description: `The NewsDaily lets users explore top headlines, browse news by category, and search for specific topics in real-time.  
+    It’s designed for performance, clarity, and responsiveness — combining MUI’s modern components with Tailwind’s adaptive grid system.
+
+    Built for learners and professionals interested in frontend architecture, API integration, and modern UI design.`,
+    image: "/projects/project3.png",
+    tags: ["React", "TypeScript", "TailwindCSS", "news_portal"],
+    demoUrl: "https://news-portal-a7vt.vercel.app/",
+    githubUrl: "https://github.com/ahmeddin12/news_portal",
+  },
+  {
+    id: 3,
+    title: "Restoran",
+    description:
+      "Restoran is a full-featured restaurant management system built with Laravel and Vite. It manages menus, orders, payments, and customer reviews efficiently. The system streamlines restaurant operations, from order placement to secure online payments.",
+    image: "/projects/project2.jpeg",
+    tags: ["Laravel", "MySQL", "Bootstrap", "JQuery"],
+    demoUrl: "https://myre.page.gd/",
+    githubUrl: "https://github.com/ahmeddin12/Restoran",
+  },
+  {
     id: 3,
     title: "E-Commerce Web Application (React, Node.js)",
     description:
@@ -38,18 +60,6 @@ const projects = [
     demoUrl:
       "http://ecommerce-project-react-env.eba-f29iuuxp.eu-north-1.elasticbeanstalk.com/",
     githubUrl: "https://github.com/ahmeddin12/ecommerece-project",
-  },
-  {
-    id: 4,
-    title: "NewsDaily",
-    description: `The NewsDaily lets users explore top headlines, browse news by category, and search for specific topics in real-time.  
-    It’s designed for performance, clarity, and responsiveness — combining MUI’s modern components with Tailwind’s adaptive grid system.
-
-    Built for learners and professionals interested in frontend architecture, API integration, and modern UI design.`,
-    image: "/projects/project3.png",
-    tags: ["React", "TypeScript", "TailwindCSS"],
-    demoUrl: "https://news-portal-a7vt.vercel.app/",
-    githubUrl: "https://github.com/ahmeddin12/news_portal",
   },
   {
     id: 5,
