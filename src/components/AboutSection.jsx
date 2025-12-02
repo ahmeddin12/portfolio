@@ -88,10 +88,12 @@ export const AboutSection = () => {
                 </div>
 
                 <div className="text-left">
-                  <h4 className="font-semibold text-lg">Project Management</h4>
+                  <h4 className="font-semibold text-lg">
+                    Frontend Development
+                  </h4>
                   <p className="text-muted-foreground">
-                    Leading projects from conception to completion with agile
-                    methodologies.
+                    Building interactive and visually appealing user interfaces
+                    with modern frontend technologies.
                   </p>
                 </div>
               </div>
