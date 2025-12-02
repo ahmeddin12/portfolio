@@ -7,7 +7,7 @@ const projects = [
     description:
       "Stock Market app to Track prices, set alerts, explore insights, manage watchlists, and automate workflows for notifications and analytics.",
     image: "/projects/signalist.png",
-    tags: ["typescript, nextjs, inngest, gemini, nodemailer"],
+    tags: ["typescript", "nextjs", "inngest", "gemini", "nodemailer"],
     demoUrl: "https://signalist-stock-tracker-app-swart.vercel.app/",
     githubUrl: "https://github.com/ahmeddin12/Signalist-stock_tracker_app",
   },
@@ -52,7 +52,7 @@ const projects = [
   },
   {
     id: 3,
-    title: "E-Commerce Web Application (React, Node.js)",
+    title: "E-Commerce Web Application",
     description:
       "Built a fully functional e-commerce platform with product listings, shopping cart, and checkout flow",
     image: "/projects/project1.png",
@@ -61,16 +61,16 @@ const projects = [
       "http://ecommerce-project-react-env.eba-f29iuuxp.eu-north-1.elasticbeanstalk.com/",
     githubUrl: "https://github.com/ahmeddin12/ecommerece-project",
   },
-  {
-    id: 5,
-    title: "Workout-tracker",
-    description:
-      "A web application that allows users to log, view, and track their running and cycling workouts on an interactive map. It uses the browser’s geolocation API and Leaflet library for mapping.",
-    image: "/projects/project4.png",
-    tags: ["Html", "css", "javascript"],
-    demoUrl: "https://map-api3.onrender.com/",
-    githubUrl: "https://github.com/ahmeddin12/Map-API",
-  },
+  // {
+  //   id: 5,
+  //   title: "Workout-tracker",
+  //   description:
+  //     "A web application that allows users to log, view, and track their running and cycling workouts on an interactive map. It uses the browser’s geolocation API and Leaflet library for mapping.",
+  //   image: "/projects/project4.png",
+  //   tags: ["javascript", 'Leaflet'],
+  //   demoUrl: "https://map-api3.onrender.com/",
+  //   githubUrl: "https://github.com/ahmeddin12/Map-API",
+  // },
 ];
 
 export const ProjectsSection = () => {
