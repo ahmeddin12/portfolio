@@ -56,7 +56,7 @@ const projects = [
     description:
       "Built a fully functional e-commerce platform with product listings, shopping cart, and checkout flow",
     image: "/projects/project1.png",
-    tags: ["React", "Node.js"],
+    tags: ["React", "Node.js", "AWS"],
     demoUrl:
       "http://ecommerce-project-react-env.eba-f29iuuxp.eu-north-1.elasticbeanstalk.com/",
     githubUrl: "https://github.com/ahmeddin12/ecommerece-project",
