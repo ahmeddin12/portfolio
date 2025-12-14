@@ -71,6 +71,23 @@ const projects = [
   //   demoUrl: "https://map-api3.onrender.com/",
   //   githubUrl: "https://github.com/ahmeddin12/Map-API",
   // },
+  {
+    id: 6,
+    title: "DevEvent",
+    description:
+      "About Event Platform with a home page listing events, API routes for CRUD, Cloudinary image uploads, detailed event pages with registration and similar events, and PostHog analytics to track interactions.",
+    image: "/projects/devEvent.png",
+    tags: [
+      "nextjs",
+      "typescript",
+      "Tailwind",
+      "Mongodb",
+      "Cloudinary",
+      "Posthog",
+    ],
+    demoUrl: "https://dev-event-i91bxsows-ahmeddin12s-projects.vercel.app/",
+    githubUrl: "https://github.com/ahmeddin12/DevEvent",
+  },
 ];
 
 export const ProjectsSection = () => {
