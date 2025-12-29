@@ -52,14 +52,14 @@ const projects = [
   },
   {
     id: 3,
-    title: "E-Commerce Web Application",
+    title: "EliteShop",
     description:
       "Built a fully functional e-commerce platform with product listings, shopping cart, and checkout flow",
     image: "/projects/project1.png",
-    tags: ["React", "Node.js", "AWS"],
+    tags: ["React", "Node.js", "Express"],
     demoUrl:
-      "http://ecommerce-project-react-env.eba-f29iuuxp.eu-north-1.elasticbeanstalk.com/",
-    githubUrl: "https://github.com/ahmeddin12/ecommerece-project",
+      "https://elite-shop-zyfe-i44pd2vww-ahmeddin12s-projects.vercel.app/",
+    githubUrl: "https://github.com/ahmeddin12/EliteShop",
   },
   // {
   //   id: 5,
